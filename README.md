@@ -1,3 +1,5 @@
+# Deprecated! Use https://github.com/bze-alphateam/insight-api-bzedge-v2 instead of this repository. 
+
 # Insight API
 
 A Zcash blockchain REST and web socket API service for [Bitcore Node](https://github.com/bitpay/bitcore-node).
